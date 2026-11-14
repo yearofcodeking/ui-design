@@ -1,0 +1,8 @@
+{
+  "name": "ui-design",
+  "version": "1.0.0",
+  "description": "UI design intelligence for web and mobile: 84 styles, 161 color palettes, 73 font pairings, 99 UX guidelines, 25 chart types. Landing pages, dashboards, apps, design systems, brand guidelines, slides, banners. Дизайн интерфейсов без шаблонного вида.",
+  "author": { "name": "faizullin studio" },
+  "license": "MIT",
+  "keywords": ["ui", "ux", "design", "дизайн", "палитры", "шрифты", "лендинг", "дашборд"]
+}
